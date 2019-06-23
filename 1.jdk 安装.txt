@@ -1,0 +1,6 @@
+1.jdk 安装
+  在win10 下 path  设置时，java 和jire 的要分开写，不然javac 不能使用。
+
+  安装完成后，验证jdk 是否安装完成
+  （1）运行java
+   (2) 运行javac
